@@ -1,0 +1,15 @@
+/* Generated with tsc --init via TypeScript 3.7.0-beta */
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "allowJs": true,
+    "declaration": true,
+    "outFile": "./js/index.js",
+    "emitDeclarationOnly": true,
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "js/**/*"
+  ]
+}
