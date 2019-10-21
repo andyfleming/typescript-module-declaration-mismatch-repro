@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andyfleming/typescript-module-declaration-mismatch-reproduction.git"
+    "url": "git+https://github.com/andyfleming/typescript-module-declaration-mismatch-repro.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andyfleming/typescript-module-declaration-mismatch-reproduction/issues"
+    "url": "https://github.com/andyfleming/typescript-module-declaration-mismatch-repro/issues"
   },
-  "homepage": "https://github.com/andyfleming/typescript-module-declaration-mismatch-reproduction#readme",
+  "homepage": "https://github.com/andyfleming/typescript-module-declaration-mismatch-repro#readme",
   "devDependencies": {
-    "typescript": "^3.7.0-dev.20191018"
+    "typescript": "3.7.0-dev.20191021"
   }
 }
