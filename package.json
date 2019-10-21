@@ -1,0 +1,24 @@
+{
+  "name": "@example-org/exampe-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate-types": "rm js/index.d.ts && tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyfleming/typescript-module-declaration-mismatch-reproduction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyfleming/typescript-module-declaration-mismatch-reproduction/issues"
+  },
+  "homepage": "https://github.com/andyfleming/typescript-module-declaration-mismatch-reproduction#readme",
+  "devDependencies": {
+    "typescript": "^3.7.0-dev.20191018"
+  }
+}
